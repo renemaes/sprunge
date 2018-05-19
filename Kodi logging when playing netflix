@@ -1,0 +1,289 @@
+11:26:03.646 T:11336  NOTICE: special://profile/ is mapped to: special://masterprofile/
+11:26:03.646 T:11336  NOTICE: -----------------------------------------------------------------------
+11:26:03.646 T:11336  NOTICE: Starting Kodi (18.0-ALPHA2 Git:20180516-afaf815f74). Platform: Windows NT x86 64-bit
+11:26:03.646 T:11336  NOTICE: Using Release Kodi x64 build
+11:26:03.646 T:11336  NOTICE: Kodi compiled May 17 2018 by MSVC 191225835 for Windows NT x86 64-bit version 10.0 (0x0A000004)
+11:26:03.646 T:11336  NOTICE: Running on Windows 10, kernel: Windows NT x86 64-bit version 10.0.16299
+11:26:03.695 T:11336  NOTICE: FFmpeg version/source: 4.0-Kodi
+11:26:03.695 T:11336  NOTICE: Host CPU: Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz, 4 cores available
+11:26:03.696 T:11336  NOTICE: Desktop Resolution: 1920x1080 32Bit at 60Hz
+11:26:03.696 T:11336  NOTICE: Running with restricted rights
+11:26:03.699 T:11336  NOTICE: Aero is enabled
+11:26:03.699 T:11336  NOTICE: special://xbmc/ is mapped to: C:\Program Files\Kodi
+11:26:03.699 T:11336  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\Kodi
+11:26:03.699 T:11336  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\Kodi/addons
+11:26:03.699 T:11336  NOTICE: special://masterprofile/ is mapped to: C:\Users\r.maes\AppData\Roaming\Kodi\userdata
+11:26:03.699 T:11336  NOTICE: special://home/ is mapped to: C:\Users\r.maes\AppData\Roaming\Kodi\
+11:26:03.699 T:11336  NOTICE: special://temp/ is mapped to: C:\Users\r.maes\AppData\Roaming\Kodi\cache
+11:26:03.699 T:11336  NOTICE: special://logpath/ is mapped to: C:\Users\r.maes\AppData\Roaming\Kodi\
+11:26:03.699 T:11336  NOTICE: The executable running is: C:\Program Files\Kodi\kodi.exe
+11:26:03.704 T:11336  NOTICE: Local hostname: PET-LAP-REN
+11:26:03.704 T:11336  NOTICE: Log File is located: C:\Users\r.maes\AppData\Roaming\Kodi\/kodi.log
+11:26:03.704 T:11336  NOTICE: -----------------------------------------------------------------------
+11:26:04.584 T:11336  NOTICE: load settings...
+11:26:04.596 T:11336   DEBUG: CSettings: loaded settings definition from special://xbmc/system/settings/settings.xml
+11:26:04.605 T:11336   DEBUG: CSettings: loaded settings definition from special://xbmc/system/settings/windows.xml
+11:26:04.606 T:11336   DEBUG: CSettings: loaded settings definition from special://xbmc/system/settings/win32.xml
+11:26:04.609 T:11336   DEBUG: SECTION:LoadDLL(special://xbmcbin/libbluray.dll)
+11:26:04.622 T:11336   DEBUG: CSkinSettings: no <skinsettings> tag found
+11:26:04.627 T:11336  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+11:26:04.627 T:11336  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+11:26:04.628 T:11336  NOTICE: Default Video Player: VideoPlayer
+11:26:04.628 T:11336  NOTICE: Default Audio Player: paplayer
+11:26:04.628 T:11336  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+11:26:04.628 T:11336  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+11:26:04.659 T:11336  NOTICE: Running database version Addons27
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.stars v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.qsf v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: xbmc.json v9.2.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: metadata.common.fanart.tv v3.4.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.nosefart v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.biogenesis v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.openmpt v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.timidity v2.0.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.octonet v0.6.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.vbox v4.3.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: imagedecoder.raw v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: repository.xbmc.org v3.1.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: webinterface.default v2.4.4 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.modplug v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.argustv v3.4.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.vdr.vnsi v3.5.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.asteroids v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.32 installed
+11:26:04.847 T:11336  NOTICE: ADDON: visualization.vortex v2.0.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.chardet v3.0.4 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audioencoder.vorbis v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: imagedecoder.mpo v1.0.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: peripheral.joystick v1.4.6 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.mediaportal.tvserver v3.4.5 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.global.main v1.0.13 installed
+11:26:04.847 T:11336  NOTICE: ADDON: plugin.video.netflix v0.13.5 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audioencoder.wav v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: game.controller.default v1.0.5 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.organya v1.1.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.idna v2.6 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.41 installed
+11:26:04.847 T:11336  NOTICE: ADDON: metadata.themoviedb.org v5.1.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.urllib3 v1.22 installed
+11:26:04.847 T:11336  NOTICE: ADDON: vfs.libarchive v1.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.gme v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: game.libretro.2048 v1.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.wmc v2.2.7 installed
+11:26:04.847 T:11336  NOTICE: ADDON: service.xbmc.versioncheck v0.3.26 installed
+11:26:04.847 T:11336  NOTICE: ADDON: visualization.shadertoy v1.1.8 installed
+11:26:04.847 T:11336  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audioencoder.flac v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: inputstream.rtmp v2.0.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.dvblink v4.5.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: visualization.milkdrop2 v2.1.2 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.gsf v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.hdhomerun v3.3.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.resource v1.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: repository.netflix v1.0.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.dumb v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.pil v1.1.7 installed
+11:26:04.847 T:11336  NOTICE: ADDON: visualization.milkdrop v1.6.2 installed
+11:26:04.847 T:11336  NOTICE: ADDON: xbmc.gui v5.13.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: inputstream.adaptive v2.2.17 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.mythtv v5.7.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.vuplus v3.6.4 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.ssf v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.pingpong v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: xbmc.core v0.1.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.ncsf v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: skin.estouchy v2.0.14 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.requests v2.18.4.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.sidplay v1.1.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.demo v3.5.4 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.pctv v2.3.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.certifi v2017.07.27.1 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.iptvsimple v3.4.4 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.inputstreamhelper v0.3.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: screensaver.shadertoy v2.0.0 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.njoy v3.3.2 installed
+11:26:04.847 T:11336  NOTICE: ADDON: pvr.nextpvr v3.2.8 installed
+11:26:04.847 T:11336  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.vgmstream v1.1.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: kodi.binary.instance.game v1.0.36 installed
+11:26:04.847 T:11336  NOTICE: ADDON: metadata.album.universal v2.7.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: vfs.rar v2.0.3 installed
+11:26:04.847 T:11336  NOTICE: ADDON: audiodecoder.stsound v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: audiodecoder.2sf v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: game.libretro.mrboom v4.5.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.dvbviewer v3.4.8 installed
+11:26:04.848 T:11336  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: visualization.spectrum v2.0.2 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.instance.pvr v5.9.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.stalker v3.3.4 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.teleboy v18.0.17 installed
+11:26:04.848 T:11336  NOTICE: ADDON: audiodecoder.snesapu v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.common.allmusic.com v3.2.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.common.musicbrainz.org v2.1.2 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.tvdb.com v3.0.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: game.libretro v1.0.36 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.local v1.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: screensaver.pyro v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: audioencoder.lame v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.6 installed
+11:26:04.848 T:11336  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.zattoo v18.0.42 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.5 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
+11:26:04.848 T:11336  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.artists.universal v4.1.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.common.theaudiodb.com v1.9.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: metadata.common.imdb.com v3.0.6 installed
+11:26:04.848 T:11336  NOTICE: ADDON: xbmc.python v2.25.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.filmon v2.3.5 installed
+11:26:04.848 T:11336  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: screensaver.greynetic v2.0.0 installed
+11:26:04.848 T:11336  NOTICE: ADDON: pvr.hts v4.2.15 installed
+11:26:04.848 T:11336  NOTICE: ADDON: visualization.waveform v2.0.1 installed
+11:26:04.848 T:11336  NOTICE: ADDON: xbmc.addon v17.9.702 installed
+11:26:04.848 T:11336  NOTICE: ADDON: skin.estuary v2.0.9 installed
+11:26:04.959 T:15084  NOTICE: Found 2 Lists of Devices
+11:26:04.959 T:15084  NOTICE: Enumerated DIRECTSOUND devices:
+11:26:04.959 T:15084  NOTICE:     Device 1
+11:26:04.959 T:15084  NOTICE:         m_deviceName      : {36D0A2EF-DBD1-4326-91AC-E2EEFFB26B20}
+11:26:04.959 T:15084  NOTICE:         m_displayName     : Speakers - Luidsprekers (High Definition Audio-apparaat)
+11:26:04.959 T:15084  NOTICE:         m_displayNameExtra: DIRECTSOUND: Luidsprekers (High Definition Audio-apparaat)
+11:26:04.959 T:15084  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+11:26:04.959 T:15084  NOTICE:         m_channels        : FL, FR
+11:26:04.959 T:15084  NOTICE:         m_sampleRates     : 44100
+11:26:04.959 T:15084  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+11:26:04.959 T:15084  NOTICE:         m_streamTypes     : No passthrough capabilities
+11:26:04.959 T:15084  NOTICE:     Device 2
+11:26:04.959 T:15084  NOTICE:         m_deviceName      : default
+11:26:04.959 T:15084  NOTICE:         m_displayName     : default
+11:26:04.959 T:15084  NOTICE:         m_displayNameExtra:
+11:26:04.959 T:15084  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+11:26:04.959 T:15084  NOTICE:         m_channels        : FL, FR
+11:26:04.959 T:15084  NOTICE:         m_sampleRates     : 44100
+11:26:04.959 T:15084  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+11:26:04.959 T:15084  NOTICE:         m_streamTypes     : No passthrough capabilities
+11:26:04.959 T:15084  NOTICE: Enumerated WASAPI devices:
+11:26:04.959 T:15084  NOTICE:     Device 1
+11:26:04.959 T:15084  NOTICE:         m_deviceName      : {36D0A2EF-DBD1-4326-91AC-E2EEFFB26B20}
+11:26:04.959 T:15084  NOTICE:         m_displayName     : Speakers - Luidsprekers (High Definition Audio-apparaat)
+11:26:04.959 T:15084  NOTICE:         m_displayNameExtra: WASAPI: Luidsprekers (High Definition Audio-apparaat)
+11:26:04.959 T:15084  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+11:26:04.959 T:15084  NOTICE:         m_channels        : FL, FR
+11:26:04.959 T:15084  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+11:26:04.959 T:15084  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+11:26:04.959 T:15084  NOTICE:         m_streamTypes     : No passthrough capabilities
+11:26:04.959 T:15084  NOTICE:     Device 2
+11:26:04.959 T:15084  NOTICE:         m_deviceName      : default
+11:26:04.959 T:15084  NOTICE:         m_displayName     : default
+11:26:04.959 T:15084  NOTICE:         m_displayNameExtra:
+11:26:04.959 T:15084  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+11:26:04.960 T:15084  NOTICE:         m_channels        : FL, FR
+11:26:04.960 T:15084  NOTICE:         m_sampleRates     : 192000,96000,88200,48000,44100
+11:26:04.960 T:15084  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+11:26:04.960 T:15084  NOTICE:         m_streamTypes     : No passthrough capabilities
+11:26:05.063 T:11336  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics 4600, adapter 0.
+11:26:05.063 T:11336  NOTICE: Primary mode: 1920x1080@ 60.00 - Full Screen
+11:26:05.074 T:11336  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+11:26:05.075 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.075 T:11336  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+11:26:05.076 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.076 T:11336  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+11:26:05.076 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.076 T:11336  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+11:26:05.076 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.076 T:11336  NOTICE: Additional mode: 1280x1024@ 60.00 - Full Screen
+11:26:05.077 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.077 T:11336  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+11:26:05.077 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.077 T:11336  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+11:26:05.078 T:11336  NOTICE: Previous line repeats 2 times.
+11:26:05.078 T:11336  NOTICE: Additional mode: 1920x1080@ 60.00 - Full Screen
+11:26:05.078 T:11336  NOTICE: Checking resolution 16
+11:26:07.487 T:15216  NOTICE: Running database version Addons27
+11:26:07.494 T:15216  NOTICE: Running database version ViewModes6
+11:26:07.497 T:15216  NOTICE: Running database version Textures13
+11:26:07.501 T:15216  NOTICE: Running database version MyMusic70
+11:26:07.510 T:15216  NOTICE: Running database version MyVideos109
+11:26:07.528 T:15216  NOTICE: Running database version TV32
+11:26:07.532 T:15216  NOTICE: Running database version Epg11
+11:26:07.696 T:11336  NOTICE:   load skin from: C:\Program Files\Kodi\addons\skin.estuary (version: 2.0.9)
+11:26:07.900 T:11336 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+11:26:08.078 T:11336  NOTICE: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Keyboard (0000:0000)
+11:26:08.080 T:11336  NOTICE: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+11:26:08.114 T:11336  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+11:26:08.115 T:11336  NOTICE: Loaded playercorefactory configuration
+11:26:08.115 T:11336  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+11:26:08.116 T:11336  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+11:26:08.129 T:11336  NOTICE: initialize done
+11:26:08.130 T:11336  NOTICE: Running the application...
+11:26:08.145 T:10972  NOTICE: ES: Starting UDP Event server on port 9777
+11:26:08.146 T:10972  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+11:26:20.055 T:11412   ERROR: XFILE::CDirectory::GetDirectory - Error getting
+11:26:20.873 T:5108   ERROR: Previous line repeats 6 times.
+11:26:20.873 T:5108 WARNING: CPythonInvoker(2, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:25.996 T:9184 WARNING: CPythonInvoker(3, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:29.028 T:616 WARNING: CPythonInvoker(4, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:35.540 T:15496 WARNING: CPythonInvoker(5, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:37.735 T:10284 WARNING: CPythonInvoker(6, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:41.406 T:11336  NOTICE: VideoPlayer::OpenFile: plugin://plugin.video.netflix/?action=play_video&infoLabels=%7B%27rating%27%3A+0%2C+%27writer%27%3A+%27%27%2C+%27episode%27%3A+1%2C+%27plot%27%3A+u%27Onderweg+naar+een+kolonie+in+de+ruimte+moeten+de+Robinsons+door+een+onverwachte+wending+landen+op+een+onbekende+planeet%2C+waar+ze+een+vreselijke+nacht+moeten+overleven.%27%2C+%27season%27%3A+1%2C+%27tvshowtitle%27%3A+u%27Lost+in+Space%27%2C+%27title%27%3A+u%27Impact%27%2C+%27mediatype%27%3A+u%27episode%27%2C+%27mpaa%27%3A+u%27-%27%2C+%27director%27%3A+%27%27%2C+%27genre%27%3A+u%27Amerikaanse+series%27%2C+%27year%27%3A+2018%2C+%27duration%27%3A+3816%7D&video_id=80117488&pin=False&start_offset=3686
+11:26:41.407 T:15516  NOTICE: Creating InputStream
+11:26:41.445 T:632 WARNING: CPythonInvoker(7, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:44.973 T:15516  NOTICE: Creating Demuxer
+11:26:44.977 T:15516  NOTICE: Opening stream: 1 source: 256
+11:26:45.047 T:15516  NOTICE: Creating video codec with codec id: 27
+11:26:45.053 T:15516  NOTICE: Creating video thread
+11:26:45.053 T:15632  NOTICE: running thread: video_thread
+11:26:45.054 T:15516  NOTICE: Opening stream: 2 source: 256
+11:26:45.171 T:15516  NOTICE: Finding audio codec for: 86056
+11:26:45.171 T:15516  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder eac3
+11:26:45.171 T:15516  NOTICE: Creating audio thread
+11:26:45.171 T:15516  NOTICE: Opening stream: 14 source: 256
+11:26:45.172 T:15620  NOTICE: running thread: CVideoPlayerAudio::Process()
+11:26:45.275 T:15620  NOTICE: Creating audio stream (codec id: 86056, channels: 2, sample rate: 48000, no pass-through)
+11:26:47.450 T:12624 WARNING: [Netflix] Guessing video info (fallback={u'season': 1, u'type': u'episode', u'episode': 1, u'showtitle': u'Lost in Space', u'title': u'Impact'})
+11:26:49.645 T:11336  NOTICE: CVideoPlayer::CloseFile()
+11:26:49.645 T:11336  NOTICE: VideoPlayer: waiting for threads to exit
+11:26:49.654 T:15516  NOTICE: CVideoPlayer::OnExit()
+11:26:49.654 T:15516  NOTICE: Closing stream player 1
+11:26:49.654 T:15516  NOTICE: Waiting for audio thread to exit
+11:26:49.699 T:15620  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+11:26:49.700 T:15516  NOTICE: Closing audio device
+11:26:49.706 T:15516  NOTICE: Deleting audio codec
+11:26:49.706 T:15516  NOTICE: Closing stream player 2
+11:26:49.707 T:15516  NOTICE: waiting for video thread to exit
+11:26:49.730 T:15632  NOTICE: thread end: video_thread
+11:26:49.730 T:15516  NOTICE: deleting video codec
+11:26:49.842 T:15516  NOTICE: Closing stream player 3
+11:26:49.850 T:11336  NOTICE: VideoPlayer: finished waiting
+11:26:49.850 T:11336  NOTICE: CVideoPlayer::CloseFile()
+11:26:49.850 T:11336  NOTICE: VideoPlayer: waiting for threads to exit
+11:26:49.850 T:11336  NOTICE: VideoPlayer: finished waiting
+11:26:49.900 T:11336   ERROR: Control 55 in window 10025 has been asked to focus, but it can't
+11:26:50.436 T:15640 WARNING: CPythonInvoker(8, C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py): the python script "C:\Users\r.maes\AppData\Roaming\Kodi\addons\plugin.video.netflix\addon.py" has left several classes in memory that we couldn't clean up. The classes include: class XBMCAddon::xbmcaddon::Addon
+11:26:59.044 T:11336  NOTICE: stop player
+11:26:59.044 T:11336  NOTICE: Storing total System Uptime
+11:26:59.044 T:11336  NOTICE: Saving settings
+11:26:59.049 T:11336  NOTICE: Saving skin settings
+11:26:59.051 T:11336  NOTICE: stop all
+11:26:59.051 T:11336  NOTICE: ES: Stopping event server
+11:26:59.159 T:10972  NOTICE: ES: UDP Event server stopped
+11:26:59.176 T:11336  NOTICE: stopped
+11:26:59.376 T:11336  NOTICE: destroy
+11:26:59.537 T:11336  NOTICE: unload skin
+11:26:59.752 T:11336  NOTICE: unload sections
+11:26:59.758 T:11336  NOTICE: special://profile/ is mapped to: special://masterprofile/
+11:26:59.762 T:11336  NOTICE: application stopped...
